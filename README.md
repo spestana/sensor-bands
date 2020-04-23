@@ -6,4 +6,4 @@
 ![](satellite_sensor_bands.jpg)
 
 
-*Note: this information was compiled from various sources and may not be accurate or up to date (for example, I have not included ASTER SWIR band which are no longer operational).*
+*Note: this information was compiled from various sources and may not be accurate or up to date (for example, I have not included ASTER SWIR band which are no longer operational). Submit a pull request or contact me to make any corrections/additions. Thanks!*
