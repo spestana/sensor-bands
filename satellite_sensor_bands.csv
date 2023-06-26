@@ -123,35 +123,40 @@ SkySat,2,0.555,0.515,0.595,0.8
 SkySat,3,0.65,0.605,0.695,0.8
 SkySat,4,0.82,0.74,0.9,0.8
 SkySat,5,0.675,0.45,0.9,0.8
-Worldview-3,Coastal,0.425,0.4,0.45,1.24
-Worldview-3,Desert Clouds,0.4125,0.405,0.42,30
-Worldview-3,Panchromatic,0.625,0.45,0.8,0.31
-Worldview-3,Blue,0.48,0.45,0.51,1.24
-Worldview-3,Aerosol-1,0.484,0.459,0.509,30
-Worldview-3,Green,0.545,0.51,0.58,1.24
-Worldview-3,Green,0.555,0.525,0.585,30
-Worldview-3,Yellow,0.605,0.585,0.625,1.24
-Worldview-3,Aerosol-2,0.645,0.62,0.67,30
-Worldview-3,Red,0.66,0.63,0.69,1.24
-Worldview-3,Red Edge,0.725,0.705,0.745,1.24
-Worldview-3,Near-IR1,0.8325,0.77,0.895,1.24
-Worldview-3,Water-1,0.865,0.845,0.885,30
-Worldview-3,Near-IR2,0.95,0.86,1.04,1.24
-Worldview-3,Water-2,0.912,0.897,0.927,30
-Worldview-3,Water-3,0.9475,0.93,0.965,30
-Worldview-3,SWIR-1,1.21,1.195,1.225,3.7
-Worldview-3,NDVI-SWIR,1.236,1.22,1.252,30
-Worldview-3,Cirrus,1.38,1.35,1.41,30
-Worldview-3,SWIR-2,1.57,1.55,1.59,3.7
-Worldview-3,Snow,1.65,1.62,1.68,30
-Worldview-3,SWIR-3,1.66,1.64,1.68,3.7
-Worldview-3,SWIR-4,1.73,1.71,1.75,3.7
-Worldview-3,Aerosol-3,2.175,2.105,2.245,30
-Worldview-3,Aerosol-3,2.175,2.105,2.245,30
-Worldview-3,SWIR-5,2.165,2.145,2.185,3.7
-Worldview-3,SWIR-6,2.205,2.185,2.225,3.7
-Worldview-3,SWIR-7,2.26,2.235,2.285,3.7
-Worldview-3,SWIR-8,2.33,2.295,2.365,3.7
+Pleiades,Panchromatic,0.49,0.47,0.83,0.5
+Pleiades,Blue,0.43,0.55,2
+Pleiades,Green,0.50,0.62,2
+Pleiades,Red,0.59,0.71,2
+Pleiades,NIR,0.74,0.94,2
+WorldView-3 MS,Coastal,0.425,0.4,0.45,1.24
+WorldView-3 CAVIS,Desert Clouds,0.4125,0.405,0.42,30
+WorldView-3 PAN,Panchromatic,0.625,0.45,0.8,0.31
+WorldView-3 MS,Blue,0.48,0.45,0.51,1.24
+WorldView-3 CAVIS,Aerosol-1,0.484,0.459,0.509,30
+WorldView-3 MS,Green,0.545,0.51,0.58,1.24
+WorldView-3 CAVIS,Green,0.555,0.525,0.585,30
+WorldView-3 MS,Yellow,0.605,0.585,0.625,1.24
+WorldView-3 CAVIS,Aerosol-2,0.645,0.62,0.67,30
+WorldView-3 MS,Red,0.66,0.63,0.69,1.24
+WorldView-3 MS,Red Edge,0.725,0.705,0.745,1.24
+WorldView-3 MS,Near-IR1,0.8325,0.77,0.895,1.24
+WorldView-3 CAVIS,Water-1,0.865,0.845,0.885,30
+WorldView-3 MS,Near-IR2,0.95,0.86,1.04,1.24
+WorldView-3 CAVIS,Water-2,0.912,0.897,0.927,30
+WorldView-3 CAVIS,Water-3,0.9475,0.93,0.965,30
+WorldView-3 SWIR,SWIR-1,1.21,1.195,1.225,3.7
+WorldView-3 CAVIS,NDVI-SWIR,1.236,1.22,1.252,30
+WorldView-3 CAVIS,Cirrus,1.38,1.35,1.41,30
+WorldView-3 SWIR,SWIR-2,1.57,1.55,1.59,3.7
+WorldView-3 CAVIS,Snow,1.65,1.62,1.68,30
+WorldView-3 SWIR,SWIR-3,1.66,1.64,1.68,3.7
+WorldView-3 SWIR,SWIR-4,1.73,1.71,1.75,3.7
+WorldView-3 CAVIS,Aerosol-3,2.175,2.105,2.245,30
+WorldView-3 CAVIS,Aerosol-3,2.175,2.105,2.245,30
+WorldView-3 SWIR,SWIR-5,2.165,2.145,2.185,3.7
+WorldView-3 SWIR,SWIR-6,2.205,2.185,2.225,3.7
+WorldView-3 SWIR,SWIR-7,2.26,2.235,2.285,3.7
+WorldView-3 SWIR,SWIR-8,2.33,2.295,2.365,3.7
 MSI (Sentinel-2),1,0.443,0.433,0.453,60
 MSI (Sentinel-2),2,0.49,0.4575,0.5225,10
 MSI (Sentinel-2),3,0.56,0.5425,0.5775,10
