@@ -3,7 +3,7 @@
 [satellite_sensor_bands.csv](satellite_sensor_bands.csv) contains various visible and infrared remote sensing instruments and the spectral bands they cover. (wavelength units in μm, spatial resolution at nadir units in m)
 
 
-![](satellite_sensor_bands.jpg)
+![](satellite_sensor_bands.svg)
 
 
 *Note: This information was compiled for my own reference from various sources (such as the very helpful [WMO Observing Systems Capability Analysis and Review Tool](https://space.oscar.wmo.int/)), and I can't guarantee that it is all completely accurate or up to date. For example, I have chosen to include the 30 m ASTER SWIR bands although they are no longer operational. Please submit a pull request or contact me to make any corrections/additions. Thanks!*
